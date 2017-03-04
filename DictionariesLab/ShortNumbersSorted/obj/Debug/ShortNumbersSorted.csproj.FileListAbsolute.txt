@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\ShortNumbersSorted\bin\Debug\ShortNumbersSorted.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\ShortNumbersSorted\bin\Debug\ShortNumbersSorted.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\ShortNumbersSorted\bin\Debug\ShortNumbersSorted.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\ShortNumbersSorted\obj\Debug\ShortNumbersSorted.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\ShortNumbersSorted\obj\Debug\ShortNumbersSorted.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\ShortNumbersSorted\obj\Debug\ShortNumbersSorted.pdb

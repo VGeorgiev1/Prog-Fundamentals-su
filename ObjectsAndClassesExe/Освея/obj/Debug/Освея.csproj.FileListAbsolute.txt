@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Освея\bin\Debug\Освея.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Освея\bin\Debug\Освея.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Освея\bin\Debug\Освея.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Освея\obj\Debug\Освея.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Освея\obj\Debug\Освея.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Освея\obj\Debug\Освея.pdb

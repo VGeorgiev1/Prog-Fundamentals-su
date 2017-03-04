@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\PrimeCheker\bin\Debug\PrimeCheker.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\PrimeCheker\bin\Debug\PrimeCheker.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\PrimeCheker\bin\Debug\PrimeCheker.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\PrimeCheker\obj\Debug\PrimeCheker.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\PrimeCheker\obj\Debug\PrimeCheker.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\PrimeCheker\obj\Debug\PrimeCheker.csprojResolveAssemblyReference.cache

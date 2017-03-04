@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\HandsOfCards\bin\Debug\HandsOfCards.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\HandsOfCards\bin\Debug\HandsOfCards.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\HandsOfCards\bin\Debug\HandsOfCards.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\HandsOfCards\obj\Debug\HandsOfCards.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\HandsOfCards\obj\Debug\HandsOfCards.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\HandsOfCards\obj\Debug\HandsOfCards.pdb

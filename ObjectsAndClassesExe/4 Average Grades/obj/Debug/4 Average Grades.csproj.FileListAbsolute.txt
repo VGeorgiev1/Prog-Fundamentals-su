@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\4 Average Grades\bin\Debug\4 Average Grades.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\4 Average Grades\bin\Debug\4 Average Grades.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\4 Average Grades\bin\Debug\4 Average Grades.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\4 Average Grades\obj\Debug\4 Average Grades.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\4 Average Grades\obj\Debug\4 Average Grades.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\4 Average Grades\obj\Debug\4 Average Grades.pdb

@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\DictionariesLab\bin\Debug\DictionariesLab.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\DictionariesLab\bin\Debug\DictionariesLab.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\DictionariesLab\bin\Debug\DictionariesLab.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\DictionariesLab\obj\Debug\DictionariesLab.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\DictionariesLab\obj\Debug\DictionariesLab.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\DictionariesLab\obj\Debug\DictionariesLab.pdb

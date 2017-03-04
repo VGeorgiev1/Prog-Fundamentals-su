@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\SoftNumbers\bin\Debug\SoftNumbers.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\SoftNumbers\bin\Debug\SoftNumbers.exe
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\SoftNumbers\bin\Debug\SoftNumbers.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\SoftNumbers\obj\Debug\SoftNumbers.exe
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\SoftNumbers\obj\Debug\SoftNumbers.pdb

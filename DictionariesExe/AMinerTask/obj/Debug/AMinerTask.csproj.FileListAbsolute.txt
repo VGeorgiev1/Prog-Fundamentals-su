@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\AMinerTask\bin\Debug\AMinerTask.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\AMinerTask\bin\Debug\AMinerTask.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\AMinerTask\bin\Debug\AMinerTask.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\AMinerTask\obj\Debug\AMinerTask.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\AMinerTask\obj\Debug\AMinerTask.pdb

@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\LadybugsIndexes\bin\Debug\LadybugsIndexes.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\LadybugsIndexes\obj\Debug\LadybugsIndexes.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\LadybugsIndexes\bin\Debug\LadybugsIndexes.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\LadybugsIndexes\bin\Debug\LadybugsIndexes.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\LadybugsIndexes\obj\Debug\LadybugsIndexes.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\LadybugsIndexes\obj\Debug\LadybugsIndexes.pdb

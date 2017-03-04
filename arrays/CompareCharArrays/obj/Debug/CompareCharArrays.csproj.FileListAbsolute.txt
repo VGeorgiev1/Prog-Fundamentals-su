@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

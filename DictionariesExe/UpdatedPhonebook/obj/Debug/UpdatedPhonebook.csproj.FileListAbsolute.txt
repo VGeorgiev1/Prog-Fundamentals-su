@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\UpdatedPhonebook\bin\Debug\UpdatedPhonebook.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\UpdatedPhonebook\bin\Debug\UpdatedPhonebook.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\UpdatedPhonebook\bin\Debug\UpdatedPhonebook.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\UpdatedPhonebook\obj\Debug\UpdatedPhonebook.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\UpdatedPhonebook\obj\Debug\UpdatedPhonebook.pdb

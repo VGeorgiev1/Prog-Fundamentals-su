@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\LastKNumbers\bin\Debug\LastKNumbers.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\LastKNumbers\bin\Debug\LastKNumbers.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\LastKNumbers\bin\Debug\LastKNumbers.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\LastKNumbers\obj\Debug\LastKNumbers.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\LastKNumbers\obj\Debug\LastKNumbers.pdb

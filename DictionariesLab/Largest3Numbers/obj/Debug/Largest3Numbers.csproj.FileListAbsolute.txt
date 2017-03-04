@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\Largest3Numbers\bin\Debug\Largest3Numbers.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\Largest3Numbers\bin\Debug\Largest3Numbers.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\Largest3Numbers\bin\Debug\Largest3Numbers.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\Largest3Numbers\obj\Debug\Largest3Numbers.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\Largest3Numbers\obj\Debug\Largest3Numbers.pdb

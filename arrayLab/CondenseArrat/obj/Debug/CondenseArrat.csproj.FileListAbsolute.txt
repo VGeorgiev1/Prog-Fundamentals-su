@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\CondenseArrat\bin\Debug\CondenseArrat.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\CondenseArrat\bin\Debug\CondenseArrat.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\CondenseArrat\bin\Debug\CondenseArrat.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\CondenseArrat\obj\Debug\CondenseArrat.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\CondenseArrat\obj\Debug\CondenseArrat.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\CondenseArrat\obj\Debug\CondenseArrat.csprojResolveAssemblyReference.cache

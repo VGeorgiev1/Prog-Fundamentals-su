@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ObectAndClasses\SalesReport\bin\Debug\SalesReport.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ObectAndClasses\SalesReport\bin\Debug\SalesReport.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ObectAndClasses\SalesReport\bin\Debug\SalesReport.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ObectAndClasses\SalesReport\obj\Debug\SalesReport.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ObectAndClasses\SalesReport\obj\Debug\SalesReport.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ObectAndClasses\SalesReport\obj\Debug\SalesReport.pdb

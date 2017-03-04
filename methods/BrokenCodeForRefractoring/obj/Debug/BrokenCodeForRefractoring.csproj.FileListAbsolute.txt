@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\methods\BrokenCodeForRefractoring\bin\Debug\BrokenCodeForRefractoring.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\methods\BrokenCodeForRefractoring\bin\Debug\BrokenCodeForRefractoring.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\methods\BrokenCodeForRefractoring\bin\Debug\BrokenCodeForRefractoring.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\methods\BrokenCodeForRefractoring\obj\Debug\BrokenCodeForRefractoring.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\methods\BrokenCodeForRefractoring\obj\Debug\BrokenCodeForRefractoring.pdb

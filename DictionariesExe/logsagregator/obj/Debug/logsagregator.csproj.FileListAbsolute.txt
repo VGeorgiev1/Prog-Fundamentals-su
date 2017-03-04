@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\logsagregator\bin\Debug\logsagregator.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\logsagregator\bin\Debug\logsagregator.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\logsagregator\bin\Debug\logsagregator.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\logsagregator\obj\Debug\logsagregator.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\logsagregator\obj\Debug\logsagregator.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\logsagregator\obj\Debug\logsagregator.pdb

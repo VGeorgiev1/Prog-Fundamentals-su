@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\MostFruqantNumber\bin\Debug\MostFruqantNumber.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\MostFruqantNumber\bin\Debug\MostFruqantNumber.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\MostFruqantNumber\bin\Debug\MostFruqantNumber.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\MostFruqantNumber\obj\Debug\MostFruqantNumber.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\MostFruqantNumber\obj\Debug\MostFruqantNumber.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\MostFruqantNumber\obj\Debug\MostFruqantNumber.pdb

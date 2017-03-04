@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\JustChecks\bin\Debug\JustChecks.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\JustChecks\bin\Debug\JustChecks.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\JustChecks\bin\Debug\JustChecks.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\JustChecks\obj\Debug\JustChecks.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\JustChecks\obj\Debug\JustChecks.pdb

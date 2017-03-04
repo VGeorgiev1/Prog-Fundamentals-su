@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\DatatypesExe\bin\Debug\DatatypesExe.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\DatatypesExe\bin\Debug\DatatypesExe.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\DatatypesExe\bin\Debug\DatatypesExe.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\DatatypesExe\obj\Debug\DatatypesExe.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\DatatypesExe\obj\Debug\DatatypesExe.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\DatatypesExe\obj\Debug\DatatypesExe.pdb

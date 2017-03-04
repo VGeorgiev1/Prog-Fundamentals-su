@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\CahrsReversed\bin\Debug\CahrsReversed.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\CahrsReversed\bin\Debug\CahrsReversed.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\CahrsReversed\bin\Debug\CahrsReversed.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\CahrsReversed\obj\Debug\CahrsReversed.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\CahrsReversed\obj\Debug\CahrsReversed.pdb

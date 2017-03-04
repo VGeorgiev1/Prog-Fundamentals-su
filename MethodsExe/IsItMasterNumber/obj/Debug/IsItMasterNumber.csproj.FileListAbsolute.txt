@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\IsItMasterNumber\bin\Debug\IsItMasterNumber.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\IsItMasterNumber\bin\Debug\IsItMasterNumber.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\IsItMasterNumber\bin\Debug\IsItMasterNumber.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\IsItMasterNumber\obj\Debug\IsItMasterNumber.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\IsItMasterNumber\obj\Debug\IsItMasterNumber.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\IsItMasterNumber\obj\Debug\IsItMasterNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\IntersectionOfCircles\bin\Debug\IntersectionOfCircles.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\IntersectionOfCircles\obj\Debug\IntersectionOfCircles.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\IntersectionOfCircles\obj\Debug\IntersectionOfCircles.pdb

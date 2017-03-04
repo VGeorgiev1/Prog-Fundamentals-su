@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\RedoneStudentsGroups\bin\Debug\RedoneStudentsGroups.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\RedoneStudentsGroups\bin\Debug\RedoneStudentsGroups.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\RedoneStudentsGroups\bin\Debug\RedoneStudentsGroups.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\RedoneStudentsGroups\obj\Debug\RedoneStudentsGroups.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\RedoneStudentsGroups\obj\Debug\RedoneStudentsGroups.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\RedoneStudentsGroups\obj\Debug\RedoneStudentsGroups.csprojResolveAssemblyReference.cache

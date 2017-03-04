@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\ObectAndClasses\BigFactoriel\bin\Debug\BigFactoriel.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\ObectAndClasses\BigFactoriel\bin\Debug\BigFactoriel.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ObectAndClasses\BigFactoriel\bin\Debug\BigFactoriel.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\ObectAndClasses\BigFactoriel\obj\Debug\BigFactoriel.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\ObectAndClasses\BigFactoriel\obj\Debug\BigFactoriel.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ObectAndClasses\BigFactoriel\obj\Debug\BigFactoriel.pdb

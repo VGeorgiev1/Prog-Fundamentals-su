@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\MethodsExe\LastDigitInEnglish\bin\Debug\LastDigitInEnglish.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\MethodsExe\LastDigitInEnglish\bin\Debug\LastDigitInEnglish.exe
+c:\users\vanko\documents\visual studio 2015\Projects\MethodsExe\LastDigitInEnglish\bin\Debug\LastDigitInEnglish.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\MethodsExe\LastDigitInEnglish\obj\Debug\LastDigitInEnglish.exe
+c:\users\vanko\documents\visual studio 2015\Projects\MethodsExe\LastDigitInEnglish\obj\Debug\LastDigitInEnglish.pdb

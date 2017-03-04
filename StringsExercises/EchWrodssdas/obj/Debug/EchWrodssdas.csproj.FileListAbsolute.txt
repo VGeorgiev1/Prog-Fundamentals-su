@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\EchWrodssdas\bin\Debug\EchWrodssdas.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\EchWrodssdas\bin\Debug\EchWrodssdas.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\EchWrodssdas\bin\Debug\EchWrodssdas.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\EchWrodssdas\obj\Debug\EchWrodssdas.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\EchWrodssdas\obj\Debug\EchWrodssdas.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\EchWrodssdas\obj\Debug\EchWrodssdas.pdb

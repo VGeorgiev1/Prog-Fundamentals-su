@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendLists", "AppendLists\AppendLists.csproj", "{CE5F4C3B-5A0C-4CF7-90AF-DDFF70ABEF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Sum Adjacent Equal Numbers", "3. Sum Adjacent Equal Numbers\3. Sum Adjacent Equal Numbers.csproj", "{C234F506-DB76-4338-8135-EEA9F50D731D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitByWordCasing", "SplitByWordCasing\SplitByWordCasing.csproj", "{FAFAD0BF-4CF6-4AD9-99A5-9D82250AEE01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftNumbers", "SoftNumbers\SoftNumbers.csproj", "{C18CD9DC-E794-4DDB-ABA2-AD158F416474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareNumbers", "SquareNumbers\SquareNumbers.csproj", "{907F4BBE-EB1D-4D84-8373-DF1848D60AA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNumbers", "CountNumbers\CountNumbers.csproj", "{07D6BD6A-49DF-41A0-857D-BDA6A2B70523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE5F4C3B-5A0C-4CF7-90AF-DDFF70ABEF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5F4C3B-5A0C-4CF7-90AF-DDFF70ABEF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5F4C3B-5A0C-4CF7-90AF-DDFF70ABEF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5F4C3B-5A0C-4CF7-90AF-DDFF70ABEF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C234F506-DB76-4338-8135-EEA9F50D731D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C234F506-DB76-4338-8135-EEA9F50D731D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C234F506-DB76-4338-8135-EEA9F50D731D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C234F506-DB76-4338-8135-EEA9F50D731D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFAD0BF-4CF6-4AD9-99A5-9D82250AEE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFAD0BF-4CF6-4AD9-99A5-9D82250AEE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFAD0BF-4CF6-4AD9-99A5-9D82250AEE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFAD0BF-4CF6-4AD9-99A5-9D82250AEE01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18CD9DC-E794-4DDB-ABA2-AD158F416474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18CD9DC-E794-4DDB-ABA2-AD158F416474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18CD9DC-E794-4DDB-ABA2-AD158F416474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18CD9DC-E794-4DDB-ABA2-AD158F416474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907F4BBE-EB1D-4D84-8373-DF1848D60AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907F4BBE-EB1D-4D84-8373-DF1848D60AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907F4BBE-EB1D-4D84-8373-DF1848D60AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907F4BBE-EB1D-4D84-8373-DF1848D60AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D6BD6A-49DF-41A0-857D-BDA6A2B70523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D6BD6A-49DF-41A0-857D-BDA6A2B70523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D6BD6A-49DF-41A0-857D-BDA6A2B70523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D6BD6A-49DF-41A0-857D-BDA6A2B70523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

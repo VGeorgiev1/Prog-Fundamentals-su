@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\SquareNumbers\bin\Debug\SquareNumbers.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\SquareNumbers\bin\Debug\SquareNumbers.exe
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\SquareNumbers\bin\Debug\SquareNumbers.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\SquareNumbers\obj\Debug\SquareNumbers.exe
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\SquareNumbers\obj\Debug\SquareNumbers.pdb

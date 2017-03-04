@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\CubePropertise\bin\Debug\CubePropertise.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\CubePropertise\bin\Debug\CubePropertise.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\CubePropertise\bin\Debug\CubePropertise.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\CubePropertise\obj\Debug\CubePropertise.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\CubePropertise\obj\Debug\CubePropertise.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\CubePropertise\obj\Debug\CubePropertise.pdb

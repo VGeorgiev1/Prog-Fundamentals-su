@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\StudentsGroups\bin\Debug\StudentsGroups.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\StudentsGroups\bin\Debug\StudentsGroups.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\StudentsGroups\bin\Debug\StudentsGroups.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\StudentsGroups\obj\Debug\StudentsGroups.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\StudentsGroups\obj\Debug\StudentsGroups.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\StudentsGroups\obj\Debug\StudentsGroups.pdb

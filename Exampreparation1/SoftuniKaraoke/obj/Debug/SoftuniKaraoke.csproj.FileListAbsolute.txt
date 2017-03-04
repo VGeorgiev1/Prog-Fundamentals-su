@@ -1,0 +1,9 @@
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\SoftuniKaraoke\bin\Debug\SoftuniKaraoke.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\SoftuniKaraoke\bin\Debug\SoftuniKaraoke.exe
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\SoftuniKaraoke\bin\Debug\SoftuniKaraoke.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\SoftuniKaraoke\obj\Debug\SoftuniKaraoke.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\SoftuniKaraoke\obj\Debug\SoftuniKaraoke.exe
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\SoftuniKaraoke\obj\Debug\SoftuniKaraoke.pdb
+C:\Users\Vanko\Desktop\Fundamentals\Exampreparation1\SoftuniKaraoke\bin\Debug\SoftuniKaraoke.exe.config
+C:\Users\Vanko\Desktop\Fundamentals\Exampreparation1\SoftuniKaraoke\obj\Debug\SoftuniKaraoke.exe
+C:\Users\Vanko\Desktop\Fundamentals\Exampreparation1\SoftuniKaraoke\obj\Debug\SoftuniKaraoke.pdb

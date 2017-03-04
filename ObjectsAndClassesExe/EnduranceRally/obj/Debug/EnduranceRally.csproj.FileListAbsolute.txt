@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\EnduranceRally\bin\Debug\EnduranceRally.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\EnduranceRally\bin\Debug\EnduranceRally.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\EnduranceRally\bin\Debug\EnduranceRally.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\EnduranceRally\obj\Debug\EnduranceRally.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\EnduranceRally\obj\Debug\EnduranceRally.pdb

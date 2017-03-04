@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\ReversedArrayOfStrings\bin\Debug\ReversedArrayOfStrings.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\ReversedArrayOfStrings\bin\Debug\ReversedArrayOfStrings.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\ReversedArrayOfStrings\bin\Debug\ReversedArrayOfStrings.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\ReversedArrayOfStrings\obj\Debug\ReversedArrayOfStrings.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\ReversedArrayOfStrings\obj\Debug\ReversedArrayOfStrings.pdb

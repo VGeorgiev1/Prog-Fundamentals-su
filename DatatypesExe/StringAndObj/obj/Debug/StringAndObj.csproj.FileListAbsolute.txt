@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\StringAndObj\bin\Debug\StringAndObj.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\StringAndObj\bin\Debug\StringAndObj.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\StringAndObj\bin\Debug\StringAndObj.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\StringAndObj\obj\Debug\StringAndObj.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\StringAndObj\obj\Debug\StringAndObj.pdb

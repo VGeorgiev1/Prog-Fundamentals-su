@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\BePositive\bin\Debug\BePositive.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\BePositive\bin\Debug\BePositive.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\BePositive\bin\Debug\BePositive.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\BePositive\obj\Debug\BePositive.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\BePositive\obj\Debug\BePositive.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\BePositive\obj\Debug\BePositive.csprojResolveAssemblyReference.cache

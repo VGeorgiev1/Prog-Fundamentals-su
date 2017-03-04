@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\3. Sum Adjacent Equal Numbers\bin\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.exe
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\3. Sum Adjacent Equal Numbers\obj\Debug\_3.Sum_Adjacent_Equal_Numbers.pdb

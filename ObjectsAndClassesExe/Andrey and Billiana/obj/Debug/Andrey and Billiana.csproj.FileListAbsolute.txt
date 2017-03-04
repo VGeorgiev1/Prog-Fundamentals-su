@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Andrey and Billiana\bin\Debug\Andrey and Billiana.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Andrey and Billiana\bin\Debug\Andrey and Billiana.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Andrey and Billiana\bin\Debug\Andrey and Billiana.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Andrey and Billiana\obj\Debug\Andrey and Billiana.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Andrey and Billiana\obj\Debug\Andrey and Billiana.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\Andrey and Billiana\obj\Debug\Andrey and Billiana.pdb

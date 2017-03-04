@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\PrimeChekerSol\bin\Debug\PrimeChekerSol.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\PrimeChekerSol\bin\Debug\PrimeChekerSol.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\PrimeChekerSol\bin\Debug\PrimeChekerSol.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\PrimeChekerSol\obj\Debug\PrimeChekerSol.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\PrimeChekerSol\obj\Debug\PrimeChekerSol.pdb

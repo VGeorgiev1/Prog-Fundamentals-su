@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\SumMinMaxAverage\bin\Debug\SumMinMaxAverage.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\SumMinMaxAverage\obj\Debug\SumMinMaxAverage.pdb

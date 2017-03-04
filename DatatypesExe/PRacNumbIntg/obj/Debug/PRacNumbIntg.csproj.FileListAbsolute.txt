@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\PRacNumbIntg\bin\Debug\PRacNumbIntg.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\PRacNumbIntg\bin\Debug\PRacNumbIntg.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\PRacNumbIntg\bin\Debug\PRacNumbIntg.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\PRacNumbIntg\obj\Debug\PRacNumbIntg.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\PRacNumbIntg\obj\Debug\PRacNumbIntg.pdb

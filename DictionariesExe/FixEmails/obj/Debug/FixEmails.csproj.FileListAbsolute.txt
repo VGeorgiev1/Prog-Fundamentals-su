@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\FixEmails\bin\Debug\FixEmails.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\FixEmails\bin\Debug\FixEmails.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\FixEmails\bin\Debug\FixEmails.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\FixEmails\obj\Debug\FixEmails.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\FixEmails\obj\Debug\FixEmails.pdb

@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\arrays\obj\Debug\arrays.pdb

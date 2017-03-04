@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\SequanceOfCommands\bin\Debug\SequanceOfCommands.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\SequanceOfCommands\obj\Debug\SequanceOfCommands.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\SequanceOfCommands\bin\Debug\SequanceOfCommands.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\SequanceOfCommands\bin\Debug\SequanceOfCommands.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\SequanceOfCommands\obj\Debug\SequanceOfCommands.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\SequanceOfCommands\obj\Debug\SequanceOfCommands.pdb

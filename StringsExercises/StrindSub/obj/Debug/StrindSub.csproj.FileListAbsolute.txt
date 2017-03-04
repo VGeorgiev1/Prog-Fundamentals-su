@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\StrindSub\bin\Debug\StrindSub.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\StrindSub\bin\Debug\StrindSub.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\StrindSub\bin\Debug\StrindSub.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\StrindSub\obj\Debug\StrindSub.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\StrindSub\obj\Debug\StrindSub.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\StrindSub\obj\Debug\StrindSub.pdb

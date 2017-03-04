@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\SoftUni Coffee Orders\bin\Debug\SoftUni Coffee Orders.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\SoftUni Coffee Orders\bin\Debug\SoftUni Coffee Orders.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\SoftUni Coffee Orders\bin\Debug\SoftUni Coffee Orders.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\SoftUni Coffee Orders\obj\Debug\SoftUni Coffee Orders.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\SoftUni Coffee Orders\obj\Debug\SoftUni Coffee Orders.pdb

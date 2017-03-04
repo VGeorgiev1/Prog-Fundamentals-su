@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\PriceChanges\bin\Debug\PriceChanges.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\PriceChanges\bin\Debug\PriceChanges.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\PriceChanges\bin\Debug\PriceChanges.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\PriceChanges\obj\Debug\PriceChanges.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\PriceChanges\obj\Debug\PriceChanges.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\PriceChanges\obj\Debug\PriceChanges.pdb

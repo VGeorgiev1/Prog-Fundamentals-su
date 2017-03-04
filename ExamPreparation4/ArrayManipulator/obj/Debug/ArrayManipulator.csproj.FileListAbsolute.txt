@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ArrayManipulator\bin\Debug\ArrayManipulator.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ArrayManipulator\bin\Debug\ArrayManipulator.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ArrayManipulator\bin\Debug\ArrayManipulator.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ArrayManipulator\obj\Debug\ArrayManipulator.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ArrayManipulator\obj\Debug\ArrayManipulator.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ArrayManipulator\obj\Debug\ArrayManipulator.pdb

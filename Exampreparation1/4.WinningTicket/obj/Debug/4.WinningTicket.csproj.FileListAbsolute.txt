@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\4.WinningTicket\bin\Debug\4.WinningTicket.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\4.WinningTicket\bin\Debug\4.WinningTicket.exe
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\4.WinningTicket\bin\Debug\4.WinningTicket.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\4.WinningTicket\obj\Debug\4.WinningTicket.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\4.WinningTicket\obj\Debug\4.WinningTicket.exe
+c:\users\vanko\documents\visual studio 2015\Projects\Exampreparation1\4.WinningTicket\obj\Debug\4.WinningTicket.pdb

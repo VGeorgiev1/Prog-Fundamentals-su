@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\DictionariesExe\bin\Debug\DictionariesExe.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\DictionariesExe\bin\Debug\DictionariesExe.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\DictionariesExe\bin\Debug\DictionariesExe.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\DictionariesExe\obj\Debug\DictionariesExe.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesExe\DictionariesExe\obj\Debug\DictionariesExe.pdb

@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\AppendLists\bin\Debug\AppendLists.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\AppendLists\bin\Debug\AppendLists.exe
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\AppendLists\bin\Debug\AppendLists.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\AppendLists\obj\Debug\AppendLists.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\AppendLists\obj\Debug\AppendLists.exe
+c:\users\vanko\documents\visual studio 2015\Projects\AppendLists\AppendLists\obj\Debug\AppendLists.pdb

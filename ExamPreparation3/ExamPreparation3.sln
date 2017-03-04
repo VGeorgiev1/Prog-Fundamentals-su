@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni Coffee Orders", "SoftUni Coffee Orders\SoftUni Coffee Orders.csproj", "{8CB58A05-AF16-4472-B359-E59727F2C79C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RageQuit", "RageQuit\RageQuit.csproj", "{37295ED1-D5EE-4821-A5A2-FAE3068AA3BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandInteruptor", "CommandInteruptor\CommandInteruptor.csproj", "{1DDD37F3-4835-46C4-AE01-776B74AB68D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files", "Files\Files.csproj", "{EF6CDD15-96E0-44CA-AB54-FF00405A1584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB58A05-AF16-4472-B359-E59727F2C79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB58A05-AF16-4472-B359-E59727F2C79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB58A05-AF16-4472-B359-E59727F2C79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB58A05-AF16-4472-B359-E59727F2C79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37295ED1-D5EE-4821-A5A2-FAE3068AA3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37295ED1-D5EE-4821-A5A2-FAE3068AA3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37295ED1-D5EE-4821-A5A2-FAE3068AA3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37295ED1-D5EE-4821-A5A2-FAE3068AA3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DDD37F3-4835-46C4-AE01-776B74AB68D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDD37F3-4835-46C4-AE01-776B74AB68D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDD37F3-4835-46C4-AE01-776B74AB68D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDD37F3-4835-46C4-AE01-776B74AB68D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6CDD15-96E0-44CA-AB54-FF00405A1584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6CDD15-96E0-44CA-AB54-FF00405A1584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6CDD15-96E0-44CA-AB54-FF00405A1584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6CDD15-96E0-44CA-AB54-FF00405A1584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\MagicExchangeable\bin\Debug\MagicExchangeable.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\MagicExchangeable\bin\Debug\MagicExchangeable.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\MagicExchangeable\bin\Debug\MagicExchangeable.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\MagicExchangeable\obj\Debug\MagicExchangeable.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\MagicExchangeable\obj\Debug\MagicExchangeable.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\MagicExchangeable\obj\Debug\MagicExchangeable.pdb

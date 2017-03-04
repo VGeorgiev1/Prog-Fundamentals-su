@@ -1,0 +1,9 @@
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation2\NetherRealms\bin\Debug\NetherRealms.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation2\NetherRealms\bin\Debug\NetherRealms.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation2\NetherRealms\bin\Debug\NetherRealms.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation2\NetherRealms\obj\Debug\NetherRealms.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation2\NetherRealms\obj\Debug\NetherRealms.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation2\NetherRealms\obj\Debug\NetherRealms.pdb
+C:\Users\Vanko\Desktop\Fundamentals\ExamPreparation2\NetherRealms\bin\Debug\NetherRealms.exe.config
+C:\Users\Vanko\Desktop\Fundamentals\ExamPreparation2\NetherRealms\obj\Debug\NetherRealms.exe
+C:\Users\Vanko\Desktop\Fundamentals\ExamPreparation2\NetherRealms\obj\Debug\NetherRealms.pdb

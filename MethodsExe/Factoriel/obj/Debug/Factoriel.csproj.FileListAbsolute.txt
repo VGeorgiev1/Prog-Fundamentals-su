@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\Factoriel\bin\Debug\Factoriel.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\Factoriel\bin\Debug\Factoriel.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\Factoriel\bin\Debug\Factoriel.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\Factoriel\obj\Debug\Factoriel.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\Factoriel\obj\Debug\Factoriel.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\Factoriel\obj\Debug\Factoriel.pdb

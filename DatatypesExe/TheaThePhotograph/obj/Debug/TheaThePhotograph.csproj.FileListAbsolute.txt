@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\TheaThePhotograph\bin\Debug\TheaThePhotograph.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\TheaThePhotograph\bin\Debug\TheaThePhotograph.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\TheaThePhotograph\bin\Debug\TheaThePhotograph.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\TheaThePhotograph\obj\Debug\TheaThePhotograph.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\TheaThePhotograph\obj\Debug\TheaThePhotograph.pdb

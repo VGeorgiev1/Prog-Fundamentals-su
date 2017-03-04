@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\MaxSequance\bin\Debug\MaxSequance.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\MaxSequance\bin\Debug\MaxSequance.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\MaxSequance\bin\Debug\MaxSequance.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\MaxSequance\obj\Debug\MaxSequance.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrays\MaxSequance\obj\Debug\MaxSequance.pdb

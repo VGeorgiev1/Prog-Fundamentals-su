@@ -1,0 +1,9 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ExamPreparation3\CommandInteruptor\bin\Debug\CommandInteruptor.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ExamPreparation3\CommandInteruptor\bin\Debug\CommandInteruptor.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ExamPreparation3\CommandInteruptor\bin\Debug\CommandInteruptor.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ExamPreparation3\CommandInteruptor\obj\Debug\CommandInteruptor.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ExamPreparation3\CommandInteruptor\obj\Debug\CommandInteruptor.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\ExamPreparation3\CommandInteruptor\obj\Debug\CommandInteruptor.pdb
+C:\Users\Vanko\Desktop\Fundamentals\ExamPreparation3\CommandInteruptor\bin\Debug\CommandInteruptor.exe.config
+C:\Users\Vanko\Desktop\Fundamentals\ExamPreparation3\CommandInteruptor\obj\Debug\CommandInteruptor.exe
+C:\Users\Vanko\Desktop\Fundamentals\ExamPreparation3\CommandInteruptor\obj\Debug\CommandInteruptor.pdb

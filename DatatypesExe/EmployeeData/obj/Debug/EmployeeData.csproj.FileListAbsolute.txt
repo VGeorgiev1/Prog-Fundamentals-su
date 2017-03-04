@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\EmployeeData\bin\Debug\EmployeeData.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\EmployeeData\bin\Debug\EmployeeData.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\EmployeeData\bin\Debug\EmployeeData.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\EmployeeData\obj\Debug\EmployeeData.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\EmployeeData\obj\Debug\EmployeeData.pdb

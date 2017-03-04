@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\RageQuit\bin\Debug\RageQuit.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\RageQuit\bin\Debug\RageQuit.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\RageQuit\bin\Debug\RageQuit.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\RageQuit\obj\Debug\RageQuit.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\RageQuit\obj\Debug\RageQuit.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation3\RageQuit\obj\Debug\RageQuit.pdb

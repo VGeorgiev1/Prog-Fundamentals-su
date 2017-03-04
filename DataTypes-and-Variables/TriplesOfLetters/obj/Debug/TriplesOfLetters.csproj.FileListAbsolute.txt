@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DataTypes-and-Variables\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DataTypes-and-Variables\TriplesOfLetters\bin\Debug\TriplesOfLetters.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DataTypes-and-Variables\TriplesOfLetters\bin\Debug\TriplesOfLetters.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DataTypes-and-Variables\TriplesOfLetters\obj\Debug\TriplesOfLetters.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DataTypes-and-Variables\TriplesOfLetters\obj\Debug\TriplesOfLetters.pdb

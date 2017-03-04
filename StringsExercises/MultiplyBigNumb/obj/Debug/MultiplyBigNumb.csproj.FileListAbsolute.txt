@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\MultiplyBigNumb\bin\Debug\MultiplyBigNumb.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\MultiplyBigNumb\bin\Debug\MultiplyBigNumb.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\MultiplyBigNumb\bin\Debug\MultiplyBigNumb.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\MultiplyBigNumb\obj\Debug\MultiplyBigNumb.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\MultiplyBigNumb\obj\Debug\MultiplyBigNumb.pdb

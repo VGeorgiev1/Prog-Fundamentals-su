@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\methods\MathPower\bin\Debug\MathPower.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\methods\MathPower\bin\Debug\MathPower.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\methods\MathPower\bin\Debug\MathPower.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\methods\MathPower\obj\Debug\MathPower.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\methods\MathPower\obj\Debug\MathPower.pdb

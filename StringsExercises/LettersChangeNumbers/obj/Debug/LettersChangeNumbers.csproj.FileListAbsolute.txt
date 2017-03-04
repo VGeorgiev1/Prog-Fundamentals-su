@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\LettersChangeNumbers\bin\Debug\LettersChangeNumbers.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\LettersChangeNumbers\obj\Debug\LettersChangeNumbers.pdb

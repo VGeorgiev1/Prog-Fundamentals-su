@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\GeometricCalculator\bin\Debug\GeometricCalculator.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\GeometricCalculator\bin\Debug\GeometricCalculator.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\GeometricCalculator\bin\Debug\GeometricCalculator.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\GeometricCalculator\obj\Debug\GeometricCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\GeometricCalculator\obj\Debug\GeometricCalculator.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\GeometricCalculator\obj\Debug\GeometricCalculator.pdb

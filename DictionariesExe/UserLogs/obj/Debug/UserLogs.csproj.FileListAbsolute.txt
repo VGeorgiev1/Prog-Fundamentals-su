@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\UserLogs\bin\Debug\UserLogs.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\UserLogs\bin\Debug\UserLogs.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\UserLogs\bin\Debug\UserLogs.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\UserLogs\obj\Debug\UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\UserLogs\obj\Debug\UserLogs.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\UserLogs\obj\Debug\UserLogs.pdb

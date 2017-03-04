@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilledSquare", "FilledSquare\FilledSquare.csproj", "{AD7DCB29-41FA-4053-A459-15FB7DB3FF6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triangleArea", "triangleArea\triangleArea.csproj", "{CAA3174C-24CF-4C31-8CBE-EB1710B72118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathPower", "MathPower\MathPower.csproj", "{2092E706-DBFB-46C2-BF32-E5472F942ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterFromTwo", "GreaterFromTwo\GreaterFromTwo.csproj", "{DCC9888E-231E-4464-8106-49EA8740D295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplyoddsbyEven", "multiplyoddsbyEven\multiplyoddsbyEven.csproj", "{9F0008D3-2195-4F8C-9327-DB8671921243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokenCodeForRefractoring", "BrokenCodeForRefractoring\BrokenCodeForRefractoring.csproj", "{FEA72B36-462D-4F53-9FAD-E5E61DD22BE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD7DCB29-41FA-4053-A459-15FB7DB3FF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7DCB29-41FA-4053-A459-15FB7DB3FF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7DCB29-41FA-4053-A459-15FB7DB3FF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7DCB29-41FA-4053-A459-15FB7DB3FF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA3174C-24CF-4C31-8CBE-EB1710B72118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA3174C-24CF-4C31-8CBE-EB1710B72118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA3174C-24CF-4C31-8CBE-EB1710B72118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA3174C-24CF-4C31-8CBE-EB1710B72118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2092E706-DBFB-46C2-BF32-E5472F942ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2092E706-DBFB-46C2-BF32-E5472F942ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2092E706-DBFB-46C2-BF32-E5472F942ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2092E706-DBFB-46C2-BF32-E5472F942ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC9888E-231E-4464-8106-49EA8740D295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC9888E-231E-4464-8106-49EA8740D295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC9888E-231E-4464-8106-49EA8740D295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC9888E-231E-4464-8106-49EA8740D295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0008D3-2195-4F8C-9327-DB8671921243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0008D3-2195-4F8C-9327-DB8671921243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0008D3-2195-4F8C-9327-DB8671921243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0008D3-2195-4F8C-9327-DB8671921243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA72B36-462D-4F53-9FAD-E5E61DD22BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA72B36-462D-4F53-9FAD-E5E61DD22BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA72B36-462D-4F53-9FAD-E5E61DD22BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA72B36-462D-4F53-9FAD-E5E61DD22BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

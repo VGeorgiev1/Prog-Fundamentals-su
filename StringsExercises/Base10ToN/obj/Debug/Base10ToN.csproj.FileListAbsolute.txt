@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\Base10ToN\bin\Debug\Base10ToN.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\Base10ToN\bin\Debug\Base10ToN.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\Base10ToN\bin\Debug\Base10ToN.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\Base10ToN\obj\Debug\Base10ToN.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\Base10ToN\obj\Debug\Base10ToN.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\StringsExercises\Base10ToN\obj\Debug\Base10ToN.pdb

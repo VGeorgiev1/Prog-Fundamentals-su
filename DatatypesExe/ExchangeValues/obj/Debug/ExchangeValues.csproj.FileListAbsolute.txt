@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\ExchangeValues\bin\Debug\ExchangeValues.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\ExchangeValues\bin\Debug\ExchangeValues.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\ExchangeValues\obj\Debug\ExchangeValues.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\ExchangeValues\obj\Debug\ExchangeValues.pdb

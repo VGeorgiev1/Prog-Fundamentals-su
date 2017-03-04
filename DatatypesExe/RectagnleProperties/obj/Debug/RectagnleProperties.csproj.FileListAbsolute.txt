@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\RectagnleProperties\bin\Debug\RectagnleProperties.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\RectagnleProperties\bin\Debug\RectagnleProperties.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\RectagnleProperties\bin\Debug\RectagnleProperties.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\RectagnleProperties\obj\Debug\RectagnleProperties.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\RectagnleProperties\obj\Debug\RectagnleProperties.pdb

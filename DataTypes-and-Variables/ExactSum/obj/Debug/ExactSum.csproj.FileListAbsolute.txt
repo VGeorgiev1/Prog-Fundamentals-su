@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DataTypes-and-Variables\ExactSum\bin\Debug\ExactSum.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DataTypes-and-Variables\ExactSum\bin\Debug\ExactSum.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DataTypes-and-Variables\ExactSum\bin\Debug\ExactSum.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DataTypes-and-Variables\ExactSum\obj\Debug\ExactSum.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\DataTypes-and-Variables\ExactSum\obj\Debug\ExactSum.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DataTypes-and-Variables\ExactSum\obj\Debug\ExactSum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\MentorGroup\bin\Debug\MentorGroup.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\MentorGroup\obj\Debug\MentorGroup.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\MentorGroup\bin\Debug\MentorGroup.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\MentorGroup\bin\Debug\MentorGroup.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\MentorGroup\obj\Debug\MentorGroup.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\MentorGroup\obj\Debug\MentorGroup.pdb

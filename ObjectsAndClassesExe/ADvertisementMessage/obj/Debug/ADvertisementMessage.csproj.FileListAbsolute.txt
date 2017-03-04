@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\ADvertisementMessage\bin\Debug\ADvertisementMessage.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\ADvertisementMessage\bin\Debug\ADvertisementMessage.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\ADvertisementMessage\bin\Debug\ADvertisementMessage.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\ADvertisementMessage\obj\Debug\ADvertisementMessage.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\CountWorkinDates\ADvertisementMessage\obj\Debug\ADvertisementMessage.pdb

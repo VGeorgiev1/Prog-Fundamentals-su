@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\SpeedCOnvertor\bin\Debug\SpeedCOnvertor.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\SpeedCOnvertor\bin\Debug\SpeedCOnvertor.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\SpeedCOnvertor\bin\Debug\SpeedCOnvertor.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\SpeedCOnvertor\obj\Debug\SpeedCOnvertor.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\SpeedCOnvertor\obj\Debug\SpeedCOnvertor.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\SpeedCOnvertor\obj\Debug\SpeedCOnvertor.csprojResolveAssemblyReference.cache

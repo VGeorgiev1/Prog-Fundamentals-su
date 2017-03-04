@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\RoundingNUmbersAwayFromZero\bin\Debug\RoundingNUmbersAwayFromZero.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\RoundingNUmbersAwayFromZero\bin\Debug\RoundingNUmbersAwayFromZero.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\RoundingNUmbersAwayFromZero\bin\Debug\RoundingNUmbersAwayFromZero.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\RoundingNUmbersAwayFromZero\obj\Debug\RoundingNUmbersAwayFromZero.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\RoundingNUmbersAwayFromZero\obj\Debug\RoundingNUmbersAwayFromZero.pdb

@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\MethodsExe\MaxOfThree\bin\Debug\MaxOfThree.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\MethodsExe\MaxOfThree\bin\Debug\MaxOfThree.exe
+c:\users\vanko\documents\visual studio 2015\Projects\MethodsExe\MaxOfThree\bin\Debug\MaxOfThree.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\MethodsExe\MaxOfThree\obj\Debug\MaxOfThree.exe
+c:\users\vanko\documents\visual studio 2015\Projects\MethodsExe\MaxOfThree\obj\Debug\MaxOfThree.pdb

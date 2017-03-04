@@ -1,0 +1,5 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\HolidaysBetweenTwoDates\bin\Debug\HolidaysBetweenTwoDates.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\arrayLab\HolidaysBetweenTwoDates\obj\Debug\HolidaysBetweenTwoDates.pdb

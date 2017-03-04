@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\CountWorkinDates\CountWorkinDates\bin\Debug\CountWorkinDates.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\CountWorkinDates\CountWorkinDates\obj\Debug\CountWorkinDates.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\CountWorkinDates\CountWorkinDates\bin\Debug\CountWorkinDates.exe
+c:\users\vanko\documents\visual studio 2015\Projects\CountWorkinDates\CountWorkinDates\bin\Debug\CountWorkinDates.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\CountWorkinDates\CountWorkinDates\obj\Debug\CountWorkinDates.exe
+c:\users\vanko\documents\visual studio 2015\Projects\CountWorkinDates\CountWorkinDates\obj\Debug\CountWorkinDates.pdb

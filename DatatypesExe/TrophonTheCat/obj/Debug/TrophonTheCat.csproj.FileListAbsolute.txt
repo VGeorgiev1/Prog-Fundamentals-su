@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DatatypesExe\TrophonTheCat\bin\Debug\TrophonTheCat.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DatatypesExe\TrophonTheCat\bin\Debug\TrophonTheCat.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DatatypesExe\TrophonTheCat\bin\Debug\TrophonTheCat.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DatatypesExe\TrophonTheCat\obj\Debug\TrophonTheCat.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DatatypesExe\TrophonTheCat\obj\Debug\TrophonTheCat.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DatatypesExe\TrophonTheCat\obj\Debug\TrophonTheCat.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\СръбскоUnleashed\bin\Debug\СръбскоUnleashed.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\СръбскоUnleashed\bin\Debug\СръбскоUnleashed.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\СръбскоUnleashed\bin\Debug\СръбскоUnleashed.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\СръбскоUnleashed\obj\Debug\СръбскоUnleashed.csprojResolveAssemblyReference.cache
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\СръбскоUnleashed\obj\Debug\СръбскоUnleashed.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\DictionariesExe\СръбскоUnleashed\obj\Debug\СръбскоUnleashed.pdb

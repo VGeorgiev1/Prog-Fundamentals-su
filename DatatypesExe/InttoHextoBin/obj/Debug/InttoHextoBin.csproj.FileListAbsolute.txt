@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\InttoHextoBin\bin\Debug\InttoHextoBin.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\InttoHextoBin\bin\Debug\InttoHextoBin.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\InttoHextoBin\bin\Debug\InttoHextoBin.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\InttoHextoBin\obj\Debug\InttoHextoBin.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DatatypesExe\InttoHextoBin\obj\Debug\InttoHextoBin.pdb

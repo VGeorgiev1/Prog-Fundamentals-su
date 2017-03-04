@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\OddOcurance\bin\Debug\OddOcurance.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\OddOcurance\bin\Debug\OddOcurance.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\OddOcurance\bin\Debug\OddOcurance.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\OddOcurance\obj\Debug\OddOcurance.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictionariesLab\OddOcurance\obj\Debug\OddOcurance.pdb

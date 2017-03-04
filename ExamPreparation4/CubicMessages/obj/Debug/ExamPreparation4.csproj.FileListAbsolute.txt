@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ExamPreparation4\bin\Debug\ExamPreparation4.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ExamPreparation4\bin\Debug\ExamPreparation4.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ExamPreparation4\bin\Debug\ExamPreparation4.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ExamPreparation4\obj\Debug\ExamPreparation4.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ExamPreparation4\obj\Debug\ExamPreparation4.exe
+c:\users\vanko\documents\visual studio 2015\Projects\ExamPreparation4\ExamPreparation4\obj\Debug\ExamPreparation4.pdb

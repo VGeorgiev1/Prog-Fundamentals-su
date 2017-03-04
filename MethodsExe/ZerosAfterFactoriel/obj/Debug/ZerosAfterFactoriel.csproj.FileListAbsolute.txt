@@ -1,0 +1,6 @@
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\ZerosAfterFactoriel\bin\Debug\ZerosAfterFactoriel.exe.config
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\ZerosAfterFactoriel\bin\Debug\ZerosAfterFactoriel.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\ZerosAfterFactoriel\bin\Debug\ZerosAfterFactoriel.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\ZerosAfterFactoriel\obj\Debug\ZerosAfterFactoriel.exe
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\ZerosAfterFactoriel\obj\Debug\ZerosAfterFactoriel.pdb
+C:\Users\Vanko\Documents\Visual Studio 2015\Projects\MethodsExe\ZerosAfterFactoriel\obj\Debug\ZerosAfterFactoriel.csprojResolveAssemblyReference.cache
